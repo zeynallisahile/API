@@ -1,0 +1,19 @@
+C:\Users\UserX\source\repos\API project1\API project1\obj\Debug\netcoreapp3.1\API project1.csproj.AssemblyReference.cache
+C:\Users\UserX\source\repos\API project1\API project1\obj\Debug\netcoreapp3.1\API project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserX\source\repos\API project1\API project1\obj\Debug\netcoreapp3.1\API project1.AssemblyInfoInputs.cache
+C:\Users\UserX\source\repos\API project1\API project1\obj\Debug\netcoreapp3.1\API project1.AssemblyInfo.cs
+C:\Users\UserX\source\repos\API project1\API project1\obj\Debug\netcoreapp3.1\API project1.csproj.CoreCompileInputs.cache
+C:\Users\UserX\source\repos\API project1\API project1\obj\Debug\netcoreapp3.1\API project1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UserX\source\repos\API project1\API project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\UserX\source\repos\API project1\API project1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\UserX\source\repos\API project1\API project1\bin\Debug\netcoreapp3.1\API project1.exe
+C:\Users\UserX\source\repos\API project1\API project1\bin\Debug\netcoreapp3.1\API project1.deps.json
+C:\Users\UserX\source\repos\API project1\API project1\bin\Debug\netcoreapp3.1\API project1.runtimeconfig.json
+C:\Users\UserX\source\repos\API project1\API project1\bin\Debug\netcoreapp3.1\API project1.runtimeconfig.dev.json
+C:\Users\UserX\source\repos\API project1\API project1\bin\Debug\netcoreapp3.1\API project1.dll
+C:\Users\UserX\source\repos\API project1\API project1\bin\Debug\netcoreapp3.1\API project1.pdb
+C:\Users\UserX\source\repos\API project1\API project1\obj\Debug\netcoreapp3.1\staticwebassets\API project1.StaticWebAssets.Manifest.cache
+C:\Users\UserX\source\repos\API project1\API project1\obj\Debug\netcoreapp3.1\API project1.RazorTargetAssemblyInfo.cache
+C:\Users\UserX\source\repos\API project1\API project1\obj\Debug\netcoreapp3.1\API project1.dll
+C:\Users\UserX\source\repos\API project1\API project1\obj\Debug\netcoreapp3.1\API project1.pdb
+C:\Users\UserX\source\repos\API project1\API project1\obj\Debug\netcoreapp3.1\API project1.genruntimeconfig.cache
